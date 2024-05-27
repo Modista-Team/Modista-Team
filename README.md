@@ -11,8 +11,8 @@ Based on a survey conducted by our team on existing fashion apps, it was found t
 | Rohmatul Ummah | Institut Teknologi Sepuluh Nopember |Machine Learning|M004D4KX3313|
 | Muhammad Maulidin Abdi | Politeknik Negeri Banjarmasin |Cloud Computing|C524D4KY0646|
 | Nur Fauziyah | Universitas Gunadarma |Cloud Computing|C009D4KX1064 |
-| Katriel Manasye Maynard | Universitas Gunadarma |Mobile Development|A006D4KY3955 |
-| Ary Thantawi | Universitas Gunadarma |Mobile Development|A715D4KY4484 |
+| Katriel Manasye Maynard | Universitas Brawijaya |Mobile Development|A006D4KY3955 |
+| Ary Thantawi | Universitas Maarif Hasyim Latif |Mobile Development|A715D4KY4484 |
 
 
 
