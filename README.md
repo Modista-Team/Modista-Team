@@ -3,6 +3,7 @@ MODISTA is an app designed to assist customers in purchasing the right outfit. O
 
 Based on a survey conducted by our team on existing fashion apps, it was found that the applications only provide information on products sold and none of them have an outfit recommendation feature. In addition, several problems were found. How does our app help customers find the right outfit? What makes our app better in terms of user experience in shopping compared to existing apps? So this problem is the reason we want to develop this application.
 
+Team ID : C241-PS305
 ## Contributing
 | Name | University | Role | ID |
 | ------ | ------ |------ |-------|
