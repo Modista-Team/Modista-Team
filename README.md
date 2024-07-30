@@ -16,6 +16,6 @@ Team ID : C241-PS305
 | Ary Thantawi | Universitas Maarif Hasyim Latif |Mobile Development|A715D4KY4484 |
 
 ## PPT
-https://www.canva.com/design/DAGK-2gsuMY/uSOTycUOX20Fl4QzGNVUxQ/edit
+[https://www.canva.com/design/DAGK-2gsuMY/uSOTycUOX20Fl4QzGNVUxQ/edit](https://www.canva.com/design/DAGK-2gsuMY/uSOTycUOX20Fl4QzGNVUxQ/edit?utm_content=DAGK-2gsuMY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
